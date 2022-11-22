@@ -15,3 +15,4 @@ function agregarPuerta(coche){
 var miCoche = new Coche(0);
 agregarPuerta(miCoche);
 console.log(miCoche._numeroDePuertas);
+
